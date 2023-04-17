@@ -1,0 +1,50 @@
+[
+  {
+    "potion_ingredient_id": 1,
+    "qty_used": 2,
+    "potion_id": 1,
+    "ingredient_id": 1
+  },
+  {
+    "potion_ingredient_id": 2,
+    "qty_used": 1,
+    "potion_id": 1,
+    "ingredient_id": 3
+  },
+  {
+    "potion_ingredient_id": 3,
+    "qty_used": 4,
+    "potion_id": 1,
+    "ingredient_id": 5
+  },
+  {
+    "potion_ingredient_id": 4,
+    "qty_used": 1,
+    "potion_id": 1,
+    "ingredient_id": 6
+  },
+  {
+    "potion_ingredient_id": 5,
+    "qty_used": 3,
+    "potion_id": 2,
+    "ingredient_id": 1
+  },
+  {
+    "potion_ingredient_id": 6,
+    "qty_used": 1,
+    "potion_id": 2,
+    "ingredient_id": 2
+  },
+  {
+    "potion_ingredient_id": 7,
+    "qty_used": 2,
+    "potion_id": 2,
+    "ingredient_id": 3
+  },
+  {
+    "potion_ingredient_id": 8,
+    "qty_used": 1,
+    "potion_id": 2,
+    "ingredient_id": 6
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "customer_id": 1,
+    "cust_first_name": "walk-in",
+    "cust_last_name": "walk-in",
+    "cust_email": "walkin@null.com"
+  },
+  {
+    "customer_id": 2,
+    "cust_first_name": "Steve",
+    "cust_last_name": "Harper",
+    "cust_email": "steve@harper.com"
+  },
+  {
+    "customer_id": 3,
+    "cust_first_name": "Tina",
+    "cust_last_name": "Long",
+    "cust_email": "tina@long.com"
+  },
+  {
+    "customer_id": 4,
+    "cust_first_name": "Abbey",
+    "cust_last_name": "Johnson",
+    "cust_email": "abbey@johnson.com"
+  },
+  {
+    "customer_id": 5,
+    "cust_first_name": "Tom",
+    "cust_last_name": "Smith",
+    "cust_email": "tom@smith.com"
+  },
+  {
+    "customer_id": 6,
+    "cust_first_name": "Mary",
+    "cust_last_name": "Allen",
+    "cust_email": "mary@allen.com"
+  },
+  {
+    "customer_id": 7,
+    "cust_first_name": "Ethan",
+    "cust_last_name": "Harris",
+    "cust_email": "ethan@harris.com"
+  }
+]

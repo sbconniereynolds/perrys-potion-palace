@@ -1,0 +1,14 @@
+[
+  {
+    "supplier_id": 1,
+    "supplier_name": "ABC Company"
+  },
+  {
+    "supplier_id": 2,
+    "supplier_name": "XYZ Company"
+  },
+  {
+    "supplier_id": 3,
+    "supplier_name": "TLC Company"
+  }
+]
