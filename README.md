@@ -24,7 +24,7 @@ In the terminal, run `npm run start` to test endpoints in Postman.
 
 In Postman, click the `import` button in the top left and open the file `api/perryspotionpalace.postman_collection.json`. All endpoints, pre-built and your task, have been pre-created here.
 
-In the top right, click the eye icon and add a new variable `url` with the initial and current values set to `http://localhost:8050/api/`. This will allow you to use the Postman collection imported above without updating each query; if you change the `PORT` in the `.env` file, you will need to update this variable with the number you select.
+In the top right, click the eye icon and add a new variable `url` with the initial and current values set to `http://localhost:8050/api`. This will allow you to use the Postman collection imported above without updating each query; if you change the `PORT` in the `.env` file, you will need to update this variable with the number you select.
 
 ### Incomplete endpoints
 
